@@ -14,9 +14,6 @@ API - GraphQL and REST
 
 Databases - MongoDB, Redis, Postgres
 
-CMS & Ecommerce Platforms - WordPress, Shopify, Wix, Squarespace 
-
-
 🙋‍♂️ Intrested In Learning -
 
 Language - Python, Go, Dart, Solidity
