@@ -2,7 +2,7 @@
 
 🚲 I like to travel on bikes
 
-My Strenghts - 
+💪 My Strenghts - 
 
 Languages - PHP, JavaScript, TypeScript, HTML, CSS
 
@@ -17,7 +17,7 @@ Databases - MongoDB, Redis, Postgres
 CMS & Ecommerce Platforms - WordPress, Shopify, Wix, Squarespace 
 
 
-Intrested In Learning -
+🙋‍♂️ Intrested In Learning -
 
 Language - Python, Go, Dart, Solidity
 
