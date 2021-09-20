@@ -16,3 +16,14 @@ Databases - MongoDB, Redis, Postgres
 
 CMS & Ecommerce Platforms - WordPress, Shopify, Wix, Squarespace 
 
+
+Intrested In Learning -
+
+Language - Python, Go, Dart, Solidity
+
+Database - Cassandra, Neo4j
+
+Technologies - AI, Blockchain, NFT
+
+
+
