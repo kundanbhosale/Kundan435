@@ -23,7 +23,7 @@ Language - Python, Go, Dart, Solidity
 
 Database - Cassandra, Neo4j
 
-Technologies - AI, Blockchain, NFT
+Technologies - AI, Blockchain, NFT, React Native, Flutter
 
 
 
