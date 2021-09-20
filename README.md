@@ -12,7 +12,7 @@ BackendEnd - NodeJS, Apollo Server, Express.
 
 API - GraphQL and REST
 
-Databases - MongoDB, Redis, Postgres
+Databases - MongoDB, Redis
 
 🙋‍♂️ Intrested In Learning -
 
