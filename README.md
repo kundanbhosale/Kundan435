@@ -6,7 +6,7 @@
 
 Languages - PHP, JavaScript, TypeScript, HTML, CSS
 
-FrontEnd Frameworks & Librarys - ReactJS, NextJS, Gatsby.
+FrontEnd Frameworks & Librarys - ReactJS, NextJS
 
 BackendEnd - NodeJS, Apollo Server, Express.
 
