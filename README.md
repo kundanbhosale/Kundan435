@@ -16,11 +16,11 @@ Databases - MongoDB, Redis, Postgres
 
 🙋‍♂️ Intrested In Learning -
 
-Language - Python, Go, Dart, Solidity
+Language - Rust, Go, Dart, Solidity
 
 Database - Cassandra, Neo4j
 
-Technologies - AI, Blockchain, NFT, React Native, Flutter
+Technologies - AI, Blockchain, React Native, Flutter
 
 
 
