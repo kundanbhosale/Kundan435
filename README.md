@@ -1,26 +1,30 @@
 👋 Hi, I’m Kundan Bhosale
 
-🚲 I like to travel on bikes
+🚲 I like motorcycles and dream is to do world tour on my bike.
 
 💪 My Strenghts - 
 
-Languages - PHP, JavaScript, TypeScript, HTML, CSS
+Languages - TypeScript, Javascript, PHP, NodeJS (Runtime), bit Python and Golang. 
 
-FrontEnd Frameworks & Librarys - ReactJS, NextJS
+Frontend - ReactJS, NextJS, React Native, Electron JS, JQuery.
 
-BackendEnd - NodeJS, Apollo Server, Express.
+Backend - Apollo, Express, Fastify, Gin, Socket.io
 
-API - GraphQL and REST
+Testing - Jest, Mocha, Vitest, Cypress, Playwright
 
-Databases - MongoDB, Redis, Postgres
+Clouds - AWS, GCP, Digital Ocean, Firebase and Supabase.
+
+Protocols - REST, Websockets, Graphql.
+
+Databases - MongoDB, Redis, Postgres, Firestore, Dynamodb etc.
 
 🙋‍♂️ Intrested In Learning -
 
-Language - Rust, Go, Dart, Solidity
+Language - Rust, Go
 
 Database - Cassandra, Neo4j
 
-Technologies - AI, Blockchain, React Native, Flutter
+Technologies - AI, Blockchain
 
 
 
